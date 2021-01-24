@@ -13,6 +13,7 @@ User needs a way to organize their day. Scheduler displays 9-5 work schedule. fo
 -JQuery/Javascript
 
 ## Screenshots
+/assets/screenshot/Work Day Schedular.gif
 
 ## Live Link
 https://jhohing.github.io/workScheduler/.
